@@ -1,4 +1,4 @@
-import com.kasonchan.qwertyapi._
+import com.qwertyapi._
 import org.scalatra._
 import javax.servlet.ServletContext
 

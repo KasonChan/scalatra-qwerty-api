@@ -1,4 +1,4 @@
-package com.kasonchan.qwertyapi
+package com.qwertyapi
 
 import org.scalatra._
 import scalate.ScalateSupport
